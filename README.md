@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Davi José
-- 👀 I’m interested in C, Python, Java, Kotlin, Flutter, 
-- 🌱 I’m currently learning Dart, TypeScript, AngularJS, Spring Boot
-- 🎒 IT Engineer, currently finishing last year of Bachelor in IT Engineering  at Universidade Lusofuna do Porto
+- 👀 I’m interested in C#, Golang, Java, React Native, Flutter, 
+- 🌱 I’m currently learning Python, Flask
+- 🎒 IT Engineer, 
 
 <!---
 davifrjose/davifrjose is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
